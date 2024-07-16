@@ -1,0 +1,276 @@
+﻿  laba3.cpp
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(7,25): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "arr"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(7,25): error C3646: arr: неизвестный спецификатор переопределения
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(7,28): error C2059: синтаксическая ошибка: )
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(8,15): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(11,8): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(11,20): error C2059: синтаксическая ошибка: >
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(11,28): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(12,16): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(13,4): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(13,17): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(14,4): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(20,28): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "arr"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(20,28): error C3646: arr: неизвестный спецификатор переопределения
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(20,31): error C2059: синтаксическая ошибка: )
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(21,22): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(23,25): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(23,39): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(24,4): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(24,18): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(25,4): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(25,22): error C2065: temp: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(31,27): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "arr"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(31,27): error C3646: arr: неизвестный спецификатор переопределения
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(31,30): error C2059: синтаксическая ошибка: )
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(32,21): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(32,33): error C2065: j: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(34,27): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(35,7): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(35,22): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(38,15): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(39,4): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(39,21): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(40,4): error C2065: arr: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(44,27): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "arr"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(44,27): error C3646: arr: неизвестный спецификатор переопределения
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(44,32): error C2062: тип "int" не требуется
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(44,51): error C2059: синтаксическая ошибка: )
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(44,53): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(44,53): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(57,9): error C2760: синтаксическая ошибка: непредвиденный элемент "N". Ожидается "выражение"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(56,6): error C2090: функция возвращает массив
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(57,9): error C3646: N: неизвестный спецификатор переопределения
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(58,10): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(58,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(58,10): error C2059: синтаксическая ошибка: <<
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(59,9): error C2143: синтаксическая ошибка: отсутствие ";" перед ">>"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(59,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(59,9): error C2059: синтаксическая ошибка: >>
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(61,11): error C2065: N: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(62,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(62,5): error C2365: srand: переопределение; предыдущим определением было "функция"
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(350,23):
+   см. объявление "srand"
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(63,5): error C2059: синтаксическая ошибка: for
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(63,5): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(63,23): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(63,23): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(63,23): error C2059: синтаксическая ошибка: <
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(63,28): error C2059: синтаксическая ошибка: ++
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(63,31): error C2059: синтаксическая ошибка: )
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(63,33): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(63,33): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(67,15): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(67,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(67,10): error C2371: std::cout: переопределение; различные базовые типы
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(39,75):
+   см. объявление "std::cout"
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(67,15): error C2059: синтаксическая ошибка: <<
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(68,5): error C2059: синтаксическая ошибка: for
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(68,5): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(68,23): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(68,23): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(68,21): error C2086: int i: переопределение
+  C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(63,21):
+   см. объявление "i"
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(68,23): error C2059: синтаксическая ошибка: <
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(68,28): error C2059: синтаксическая ошибка: ++
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(68,31): error C2059: синтаксическая ошибка: )
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(68,33): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(68,33): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(71,15): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(71,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(71,10): error C2371: std::cout: переопределение; различные базовые типы
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(39,75):
+   см. объявление "std::cout"
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(71,15): error C2059: синтаксическая ошибка: <<
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(73,11): error C2065: N: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,10): error C2672: "std::begin": не найдена соответствующая перегруженная функция
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1824,27):
+  может быть "_Ty *std::begin(_Ty (&)[_Size]) noexcept"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,10):
+  	'_Ty *std::begin(_Ty (&)[_Size]) noexcept': не удалось вывести аргумент шаблон для '_Ty (&)[_Size]' из 'int [0]'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1806,30):
+  или       "unknown-type std::begin(const _Container &) noexcept(<expr>)"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,10):
+  	Сбой при специализации функции-шаблона "unknown-type std::begin(const _Container &) noexcept(<expr>)"
+  		C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,10):
+  		Со следующими аргументами шаблона:
+  			C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,10):
+  			"_Container=int [0]"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1807,23):
+  		выражение слева от ".begin" должно представлять класс, структуру или объединение
+  			C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1807,23):
+  			тип: const int [0]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1800,30):
+  или       "unknown-type std::begin(_Container &) noexcept(<expr>)"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,10):
+  	Сбой при специализации функции-шаблона "unknown-type std::begin(_Container &) noexcept(<expr>)"
+  		C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,10):
+  		Со следующими аргументами шаблона:
+  			C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,10):
+  			"_Container=int [0]"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1801,23):
+  		выражение слева от ".begin" должно представлять класс, структуру или объединение
+  			C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1801,23):
+  			тип: int [0]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\initializer_list(54,35):
+  или       "const _Elem *std::begin(std::initializer_list<_Elem>) noexcept"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,10):
+  	'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': не удалось вывести аргумент шаблон для 'std::initializer_list<_Elem>' из 'int [0]'
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,20): error C2672: "std::end": не найдена соответствующая перегруженная функция
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1829,27):
+  может быть "_Ty *std::end(_Ty (&)[_Size]) noexcept"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,20):
+  	'_Ty *std::end(_Ty (&)[_Size]) noexcept': не удалось вывести аргумент шаблон для '_Ty (&)[_Size]' из 'int [0]'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1818,30):
+  или       "unknown-type std::end(const _Container &) noexcept(<expr>)"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,20):
+  	Сбой при специализации функции-шаблона "unknown-type std::end(const _Container &) noexcept(<expr>)"
+  		C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,20):
+  		Со следующими аргументами шаблона:
+  			C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,20):
+  			"_Container=int [0]"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1819,23):
+  		выражение слева от ".end" должно представлять класс, структуру или объединение
+  			C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1819,23):
+  			тип: const int [0]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1812,30):
+  или       "unknown-type std::end(_Container &) noexcept(<expr>)"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,20):
+  	Сбой при специализации функции-шаблона "unknown-type std::end(_Container &) noexcept(<expr>)"
+  		C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,20):
+  		Со следующими аргументами шаблона:
+  			C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,20):
+  			"_Container=int [0]"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1813,23):
+  		выражение слева от ".end" должно представлять класс, структуру или объединение
+  			C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1813,23):
+  			тип: int [0]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\initializer_list(59,35):
+  или       "const _Elem *std::end(std::initializer_list<_Elem>) noexcept"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,20):
+  	'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': не удалось вывести аргумент шаблон для 'std::initializer_list<_Elem>' из 'int [0]'
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,28): error C2672: "std::begin": не найдена соответствующая перегруженная функция
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1824,27):
+  может быть "_Ty *std::begin(_Ty (&)[_Size]) noexcept"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,28):
+  	'_Ty *std::begin(_Ty (&)[_Size]) noexcept': не удалось вывести аргумент шаблон для '_Ty (&)[_Size]' из 'int [0]'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1806,30):
+  или       "unknown-type std::begin(const _Container &) noexcept(<expr>)"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,28):
+  	Сбой при специализации функции-шаблона "unknown-type std::begin(const _Container &) noexcept(<expr>)"
+  		C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,28):
+  		Со следующими аргументами шаблона:
+  			C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,28):
+  			"_Container=int [0]"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1807,23):
+  		выражение слева от ".begin" должно представлять класс, структуру или объединение
+  			C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1807,23):
+  			тип: const int [0]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1800,30):
+  или       "unknown-type std::begin(_Container &) noexcept(<expr>)"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,28):
+  	Сбой при специализации функции-шаблона "unknown-type std::begin(_Container &) noexcept(<expr>)"
+  		C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,28):
+  		Со следующими аргументами шаблона:
+  			C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,28):
+  			"_Container=int [0]"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1801,23):
+  		выражение слева от ".begin" должно представлять класс, структуру или объединение
+  			C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1801,23):
+  			тип: int [0]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\initializer_list(54,35):
+  или       "const _Elem *std::begin(std::initializer_list<_Elem>) noexcept"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,28):
+  	'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': не удалось вывести аргумент шаблон для 'std::initializer_list<_Elem>' из 'int [0]'
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(76,19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(76,5): error C2365: sortOfBubble: переопределение; предыдущим определением было "функция"
+  C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(7,6):
+   см. объявление "sortOfBubble"
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(76,21): error C2065: N: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(78,10): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(78,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(78,5): error C2086: int cout: переопределение
+  C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(58,5):
+   см. объявление "cout"
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(78,10): error C2059: синтаксическая ошибка: <<
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(79,5): error C2059: синтаксическая ошибка: for
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(79,5): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(79,23): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(79,23): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(79,21): error C2086: int i: переопределение
+  C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(63,21):
+   см. объявление "i"
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(79,23): error C2059: синтаксическая ошибка: <
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(79,28): error C2059: синтаксическая ошибка: ++
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(79,31): error C2059: синтаксическая ошибка: )
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(79,33): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(79,33): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(82,10): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(82,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(82,5): error C2086: int cout: переопределение
+  C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(58,5):
+   см. объявление "cout"
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(82,10): error C2059: синтаксическая ошибка: <<
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(83,10): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(83,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(83,5): error C2086: int cout: переопределение
+  C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(58,5):
+   см. объявление "cout"
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(83,10): error C2059: синтаксическая ошибка: <<
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(85,11): error C2065: N: необъявленный идентификатор
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(86,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(86,5): error C2374: copy: переопределение; множественная инициализация
+  C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(74,5):
+   см. объявление "copy"
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(86,10): error C2672: "std::begin": не найдена соответствующая перегруженная функция
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1824,27):
+  может быть "_Ty *std::begin(_Ty (&)[_Size]) noexcept"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(86,10):
+  	'_Ty *std::begin(_Ty (&)[_Size]) noexcept': не удалось вывести аргумент шаблон для '_Ty (&)[_Size]' из 'int [0]'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1806,30):
+  или       "unknown-type std::begin(const _Container &) noexcept(<expr>)"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(86,10):
+  	Сбой при специализации функции-шаблона "unknown-type std::begin(const _Container &) noexcept(<expr>)"
+  		C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(86,10):
+  		Со следующими аргументами шаблона:
+  			C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(86,10):
+  			"_Container=int [0]"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1807,23):
+  		выражение слева от ".begin" должно представлять класс, структуру или объединение
+  			C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1807,23):
+  			тип: const int [0]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1800,30):
+  или       "unknown-type std::begin(_Container &) noexcept(<expr>)"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(86,10):
+  	Сбой при специализации функции-шаблона "unknown-type std::begin(_Container &) noexcept(<expr>)"
+  		C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(86,10):
+  		Со следующими аргументами шаблона:
+  			C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(86,10):
+  			"_Container=int [0]"
+  		C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1801,23):
+  		выражение слева от ".begin" должно представлять класс, структуру или объединение
+  			C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xutility(1801,23):
+  			тип: int [0]
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\initializer_list(54,35):
+  или       "const _Elem *std::begin(std::initializer_list<_Elem>) noexcept"
+  	C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(86,10):
+  	'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': не удалось вывести аргумент шаблон для 'std::initializer_list<_Elem>' из 'int [0]'
+  
+C:\Users\user\Desktop\АИСД\laba3\laba3\laba3.cpp(86,10): error C1003: число ошибок превышает 100; остановка компиляции
